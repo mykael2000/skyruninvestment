@@ -2,7 +2,7 @@
 // Database connection (Change credentials accordingly)
         $servername = "localhost";
         $username = "root";
-        $password = "";
+        $password = "Swo464@sKO";
         $dbname = "skyrun";
 
         $conn = new mysqli($servername, $username, $password, $dbname);
