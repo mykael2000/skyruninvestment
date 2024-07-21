@@ -112,7 +112,7 @@ if(!empty($_GET['st'])){
                                
                                 <option value="BTC">BTC</option>
                                 <option value="ETH">ETH</option>
-                                <option value="LTC">LTC</option>
+                                <!-- <option value="LTC">LTC</option> -->
                                  <option value="USDT">USDT</option>
 
                             </select>
