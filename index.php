@@ -2,7 +2,6 @@
   include("includes/header.php");
 
 ?>
-
 <!-- ======= Hero Section ======= -->
 <section id="hero" class="hero">
     <div class="container position-relative">
